@@ -653,3 +653,6 @@ You don’t own any physical server, but you:
 * Creating a VM is just like ordering pizza on Zomato.
     
 * The entire model is **Cloud**.
+    
+
+**🔗 Note:** The rest of **Day 2** has been covered in the [second part of this blog here](https://kdazureblogs.hashnode.dev/ip-addressing-and-mac-addressing).
